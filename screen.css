@@ -25,7 +25,6 @@ p {
 }
 
 .links {
-    display: flex;
     flex-grow: 1;
     flex-basis: 0;
     margin-left: auto;
