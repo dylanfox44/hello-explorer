@@ -26,7 +26,6 @@ p {
 
 .links {
     display: flex;
-    padding: 20px;
-    margin-left: 400px;
+    margin-left: auto;
     gap: 100px;
 }
