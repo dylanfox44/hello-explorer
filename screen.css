@@ -8,3 +8,7 @@ body {
     background-image: url("images/space.png");
     margin: 0;
 }
+
+h1 {
+    color: white;
+}
