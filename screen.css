@@ -28,3 +28,8 @@ p {
     text-align: center;
     gap: 100px;
 }
+
+a:active {
+    outline-color: whitesmoke;
+    outline-width: 1.4em;
+}
