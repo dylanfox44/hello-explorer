@@ -12,3 +12,7 @@ body {
 h1 {
     color: white;
 }
+
+moon-1.png {
+    transform: scale(0.5);
+}
