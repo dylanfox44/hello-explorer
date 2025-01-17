@@ -2,3 +2,9 @@
 a.active {
     font-weight: bold;
 }
+
+body {
+    font-family: Helvetica, sans-serif;
+    background-image: url("images/space.png");
+    margin: 0;
+}
