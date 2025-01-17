@@ -16,8 +16,8 @@ h1 {
 
 p {
     color: white; 
-    margin-left: 5em;
-    margin-right: 5em;
+    padding-left: 5em;
+    padding-right: 15em;
 }
 
 .moon {
